@@ -73,11 +73,10 @@
     <td>로그인 후Page3</td>
   </tr>
   <tr>
-    <td></td>
-    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/3f88efa5-4ef4-48be-873a-f12436765d26" /></td>
-    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/6670399a-d33e-44b4-a39b-bf59498fb46c" /></td>
-    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/acacebc2-97c5-4c16-83a8-c766bb5ed7e7" /></td>
-    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/a743c9aa-4de7-444e-ad5b-d0f396438c0c" /></td>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/3f88efa5-4ef4-48be-873a-f12436765d26"  width="100%"/></td>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/6670399a-d33e-44b4-a39b-bf59498fb46c"  width="100%"/></td>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/acacebc2-97c5-4c16-83a8-c766bb5ed7e7"  width="100%"/></td>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/a743c9aa-4de7-444e-ad5b-d0f396438c0c"  width="100%"/></td>
   </tr>
 </table>
 
