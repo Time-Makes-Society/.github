@@ -78,6 +78,20 @@
     <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/acacebc2-97c5-4c16-83a8-c766bb5ed7e7"  width="100%"/></td>
     <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/a743c9aa-4de7-444e-ad5b-d0f396438c0c"  width="100%"/></td>
   </tr>
+   <tr>
+    <td>카테고리 페이지</td>
+    <td>시간설정 페이지</td>
+    <td>메인페이지</td>
+    <td>기사 상세페이지</td>
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/d748144e-b4a1-4b4d-9a51-a9105f4de08d"  width="100%"/></td>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/997fbbfe-a2f7-4bf5-bea7-114603a9b5ec"  width="100%"/></td>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/8e88d2df-c8ab-44dd-99d3-2cdcb84557ba"  width="100%"/></td>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/4fe857c6-dee5-421b-9411-7b12c48d35ec"  width="100%"/></td>
+
+
+  </tr>
 </table>
 
 
