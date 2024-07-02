@@ -22,7 +22,7 @@
 <br><br>
 
 ## 🦾 주요 기술
-### ⚒️ Front
+###  Front
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
@@ -32,7 +32,7 @@
 * <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=Framer&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
 
-### ⚒️ Back
+###  Back
 * <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
 * <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 * <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white"/>
@@ -42,14 +42,14 @@
 
 <br>
 
-### 💻 Collaboration
+###  Collaboration
 * <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/>
 <br>
 
-## 🖼️ 와이어프레임
+##  와이어프레임
 
 
 <details>
@@ -64,7 +64,7 @@
 
 <br><br>
 
-## 🎨 디자인
+##  디자인
 <table>
   <tr>
     <td>LoginPage1</td>
@@ -98,10 +98,10 @@
 
 <br><br>
 
-## 👀 실행 화면
+##  실행 화면
 * **Phone** :iphone:
 
-* ## 🧬 구조도
+* ##  구조도
 
 <div align="center">
   
@@ -115,7 +115,7 @@
 
 <br><br>
 
-## 👻 팀원
+##  팀원
 <table>
   <tr> 
     <td align='center'><strong>임형준(팀장,FE)</strong></td> 
