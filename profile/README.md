@@ -41,11 +41,13 @@
 * <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 <br>
+
 ### 💻 Collaboration
 * <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 * <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white"/>
+<br>
 
 ## 🖼️ 와이어프레임
 
@@ -63,15 +65,14 @@
 <br><br>
 
 ## 🎨 디자인
-<details>
-  <summary><b>디자인</b></summary>
-  <div markdown="1">
+**LoginPage1**|**로그인 후Page1**|**로그인 후Page2**|**로그인 후Page3**
+:-----:|:-----:|:-----:|:-----:
+ ![image][KakaoTalk_20240628_163609267](https://github.com/Time-Makes-Society/.github/assets/100831607/3f88efa5-4ef4-48be-873a-f12436765d26)|![image]
+[KakaoTalk_20240628_163609267_01](https://github.com/Time-Makes-Society/.github/assets/100831607/6670399a-d33e-44b4-a39b-bf59498fb46c)|![image]
+[KakaoTalk_20240628_163609267_02](https://github.com/Time-Makes-Society/.github/assets/100831607/acacebc2-97c5-4c16-83a8-c766bb5ed7e7)|![image]
+![KakaoTalk_20240628_163609267_03](https://github.com/Time-Makes-Society/.github/assets/100831607/a743c9aa-4de7-444e-ad5b-d0f396438c0c)
 
-  <div align="center">
-    
-  </div>
-  </div>
-</details>
+
 
 <br><br>
 
@@ -81,7 +82,7 @@
 * ## 🧬 구조도
 
 <div align="center">
-
+  
 
 
 </div>
