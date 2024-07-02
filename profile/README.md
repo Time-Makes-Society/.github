@@ -67,10 +67,10 @@
 ## 🎨 디자인
 **LoginPage1**|**로그인 후Page1**|**로그인 후Page2**|**로그인 후Page3**
 :-----:|:-----:|:-----:|:-----:
- ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/3f88efa5-4ef4-48be-873a-f12436765d26)|![image]
-(https://github.com/Time-Makes-Society/.github/assets/100831607/6670399a-d33e-44b4-a39b-bf59498fb46c)|![image]
-(https://github.com/Time-Makes-Society/.github/assets/100831607/acacebc2-97c5-4c16-83a8-c766bb5ed7e7)|![image]
-(https://github.com/Time-Makes-Society/.github/assets/100831607/a743c9aa-4de7-444e-ad5b-d0f396438c0c)
+ ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/3f88efa5-4ef4-48be-873a-f12436765d26)|
+ ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/6670399a-d33e-44b4-a39b-bf59498fb46c)|
+ ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/acacebc2-97c5-4c16-83a8-c766bb5ed7e7)|
+ ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/a743c9aa-4de7-444e-ad5b-d0f396438c0c)
 
 
 
