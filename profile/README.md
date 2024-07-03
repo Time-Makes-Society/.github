@@ -57,6 +57,9 @@
   <div markdown="1">
 
   <div align="center">
+    ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/deea8d4e-f9b0-44c9-ba1c-768623cde52b)
+    ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/7e3778ab-1598-41e5-9916-c60444721a74)
+  ![Uploading image.png…]()
 
   </div>
   </div>
