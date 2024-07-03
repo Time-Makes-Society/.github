@@ -103,6 +103,15 @@
     <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/508e7766-f1d2-42c9-b4d9-47891c44e61d"  width="100%"/></td>
     <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/ba217927-0a5a-47a2-bcef-1f845d6b3a59"  width="100%"/></td>
   </tr>
+   <tr>
+    <td>마이페이지(요약)</td>
+    
+  </tr>
+   <tr>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/7f3acdd1-296f-4c17-998c-a849aa4cb471"  width="100%"/></td>
+
+
+  </tr>
 </table>
 
 
