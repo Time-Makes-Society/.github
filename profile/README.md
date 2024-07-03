@@ -57,9 +57,11 @@
   <div markdown="1">
 
   <div align="center">
-    ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/deea8d4e-f9b0-44c9-ba1c-768623cde52b)
-    ![image](https://github.com/Time-Makes-Society/.github/assets/100831607/7e3778ab-1598-41e5-9916-c60444721a74)
-  ![Uploading image.png…]()
+    <img src="https://github.com/Time-Makes-Society/.github/assets/100831607/deea8d4e-f9b0-44c9-ba1c-768623cde52b"/>
+    <img src="https://github.com/Time-Makes-Society/.github/assets/100831607/7e3778ab-1598-41e5-9916-c60444721a74"/>
+    <img src="https://github.com/Time-Makes-Society/.github/assets/100831607/adc52a20-8ca8-4376-b3c3-0b935b59fc56"/>
+
+
 
   </div>
   </div>
