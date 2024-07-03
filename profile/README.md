@@ -130,10 +130,11 @@
 ##  실행 화면
 * **Phone** :iphone:
 
-* ##  구조도
+##  구조도
 
 <div align="center">
-  
+  <img src="https://github.com/Time-Makes-Society/.github/assets/100831607/de82fa3f-53c9-45bd-b218-8332f9373608"/>
+
 
 
 </div>
