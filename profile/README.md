@@ -87,8 +87,9 @@
    <tr>
     <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/d748144e-b4a1-4b4d-9a51-a9105f4de08d"  width="100%"/></td>
     <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/997fbbfe-a2f7-4bf5-bea7-114603a9b5ec"  width="100%"/></td>
-    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/8e88d2df-c8ab-44dd-99d3-2cdcb84557ba"  width="100%"/></td>
+    <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/3810dd4c-d675-40f1-a36d-a42160bacdda"  width="100%"/></td>
     <td><img src="https://github.com/Time-Makes-Society/.github/assets/100831607/4fe857c6-dee5-421b-9411-7b12c48d35ec"  width="100%"/></td>
+
 
 
   </tr>
